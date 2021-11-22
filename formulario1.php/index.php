@@ -14,7 +14,7 @@
         informacion de cada input que se envio
 -->
 <form action="procesar.php" method="post">
-<p>Nombre:  <input type="text" name="nombre"/> </p>
+<p>Nombre:  <input type="text" name="nombre"/> </p> <!--nombre lo pondre en POST -->
 <p>Asunto:  <input type="text" name="asunto"/> </p>
 <p>Mensaje:  <input type="text" name="mensaje"/> </p>
 
